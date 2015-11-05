@@ -1,3 +1,5 @@
 $ zooz test
  -[] bla bla
- -[x] blalba 
+ -[x] blalba
+ -[x] hey there!
+ -[()] 
