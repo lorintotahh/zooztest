@@ -1,1 +1,2 @@
-$ zooz test
+Zooz get to know GitHub.
+- :) 
